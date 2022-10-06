@@ -36,7 +36,7 @@ Windows: https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe
 1. Clone the repo.
 ```sh
 $ git clone git@github.com:hebertluchetti/HandGestureRecog.git
-$ cd deep_hand_gesture
+$ cd HandGestureRecog
 ```
 
 2. Install the dependencies
