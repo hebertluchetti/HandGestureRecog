@@ -11,7 +11,10 @@ Hand gesture recognition using Python, OpenCV, Keras, Tensorflow, Matplotlib
 * Start using the application by simply double clicking "hand_recognize.py"
 
 # Deep Hand Gesture
-https://www.youtube.com/watch?v=krFuaoRcBJo
+https://youtu.be/jYFf6jli1R4
+
+# Background Subtraction for Hand Segmentation (Python+OpenCV)
+https://youtu.be/krFuaoRcBJo
 
 An AI to run the DeepHandGesture application
 
@@ -32,7 +35,7 @@ Windows: https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe
 ## Set up instructions
 1. Clone the repo.
 ```sh
-$ git clone https://github.com/HebertLuchettiRibeiro/deep_hand_gesture.git
+$ git clone git@github.com:hebertluchetti/HandGestureRecog.git
 $ cd deep_hand_gesture
 ```
 
