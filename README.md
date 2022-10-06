@@ -65,3 +65,11 @@ $ python hand_predict.py
 ```sh
 $ python hand_recognition.py
 ```
+Contact: Hebert Luchetti Ribeiro
+linkedin: https://www.linkedin.com/in/hebert-luchetti-ribeiro-aa42923
+
+DeepGA Self-Driving-Car (Python+Pytorch+Pyglet+Pymunk): 
+https://youtu.be/IAyzn8aPpTw
+
+Source Code:
+https://github.com/hebertluchetti/python-and-deep-learning
